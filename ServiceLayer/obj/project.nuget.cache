@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "TJPwUUpMv1dMOA3weHm/LbzIg/AEQmvuaAMj6HGZkgz8PHZD/Oyqp7ZyiPf0ltMtDYhPvIl/6idHVPrYP4IhRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manish.agarwal\\Downloads\\Movies\\ServiceLayer\\ServiceLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manish.agarwal\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\manish.agarwal\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\manish.agarwal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\manish.agarwal\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\manish.agarwal\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\microsoft.identitymodel.jsonwebtokens.6.12.2.nupkg.sha512",
+    "C:\\Users\\manish.agarwal\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\microsoft.identitymodel.logging.6.12.2.nupkg.sha512",
+    "C:\\Users\\manish.agarwal\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\microsoft.identitymodel.tokens.6.12.2.nupkg.sha512",
+    "C:\\Users\\manish.agarwal\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\system.identitymodel.tokens.jwt.6.12.2.nupkg.sha512",
+    "C:\\Users\\manish.agarwal\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

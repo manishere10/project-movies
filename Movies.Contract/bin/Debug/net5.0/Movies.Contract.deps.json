@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Movies.Contract/1.0.0": {
+        "dependencies": {
+          "Movies.Models": "1.0.0"
+        },
+        "runtime": {
+          "Movies.Contract.dll": {}
+        }
+      },
+      "Movies.Models/1.0.0": {
+        "runtime": {
+          "Movies.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movies.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Movies.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
